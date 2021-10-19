@@ -1,0 +1,58 @@
+.wrap {
+    background: #b3d4fc;
+    height: 640px;
+    width: 830px;
+
+
+}
+
+.a {
+    background: coral;
+    height: 200px;
+    width: 820px;
+    margin: 5px;
+
+}
+
+.b {
+    background: #fd46b6;
+    height: 430px;
+    width: 820px;
+    display: flex;
+    margin: 5px;
+
+
+}
+
+
+.c {
+    background: brown;
+    height: 200px;
+    width: 600px;
+    margin: 5px;
+
+}
+
+.f {
+    background: aliceblue;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+
+}
+
+.s {
+    background: black;
+    height: 210px;
+    width: 600px;
+    display: flex;
+    margin: 5px;
+}
+
+.w {
+    background: blue;
+    height: 420px;
+    width: 400px;
+    margin: 5px;
+
+}

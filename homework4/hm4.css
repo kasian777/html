@@ -1,0 +1,39 @@
+.all {
+    background: silver;
+    height: 600px;
+    width: 1000px;
+}
+
+.first  {
+    background: #e4fd05;
+    height: 150px;
+    width: 1000px;
+
+}
+.second1  {
+    background: #54f606;
+    height: 100px;
+    width: 1000px;
+
+
+
+}
+.second2  {
+    background: #0505fd;
+    height: 300px;
+    width: 700px;
+
+}
+.second3  {
+    background: #ef9d30;
+    height: 300px;
+    width: 300px;
+
+}
+.second4 {
+    background: #003b32;
+    height: 100px;
+    width: 1000px;
+}
+
+.w { display: flex;}

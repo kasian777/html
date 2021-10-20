@@ -1,0 +1,27 @@
+.first  {
+    background: #deb924;
+    height: 200px;
+    width: 800px;
+    margin: 10px;
+}
+.second1  {
+    background: #9d5ecb;
+    height: 410px;
+    width: 200px;
+    margin: 10px;
+
+
+}
+.second2  {
+    background: #0505fd;
+    height: 200px;
+    width: 580px;
+    margin: 10px;
+}
+.dwn  {
+    background: #fd46b6;
+    height: 200px;
+    width: 800px;
+    margin: 10px;
+}
+.w { display: flex;}

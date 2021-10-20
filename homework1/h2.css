@@ -1,0 +1,21 @@
+.first  {
+background: silver;
+    height: 200px;
+    width: 718px;
+    margin: 10px;
+}
+.second1  {
+    background: silver;
+    height: 300px;
+    width: 500px;
+    margin: 10px;
+}
+.second2  {
+    background: silver;
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+}
+.w  {
+    display: flex;
+}

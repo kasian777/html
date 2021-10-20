@@ -1,0 +1,35 @@
+.wrap {
+    background: coral;
+    height: 620px;
+    width: 800px;
+}
+
+.a {
+    background: #fd46b6;
+    height: 400px;
+    width: 200px;
+    margin: 10px;
+
+}
+.b {
+    background: green;
+    height:200px;
+    width: 420px;
+    display: flex;
+    margin: 10px;
+}
+.c {
+    background: rgba(24, 246, 246, 0.58);
+    height: 126px;
+    width: 126px;
+    display: flex;
+    margin: 10px;
+}
+
+
+
+
+
+.w {
+    display: flex;
+}

@@ -1,0 +1,103 @@
+.first {
+    background: white;
+    height: 500px;
+    width: 1200px;
+    margin: 10px;
+    border: #7cb8ff;
+    border-radius: 20px;
+}
+
+.blok1 {
+    background: white;
+    height: 100px;
+    width: 1000px;
+    margin: 20px;
+    border: #7cb8ff;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.blok1-1 {
+    background: #003b32;
+    height: 20px;
+    width: 80px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.blok1-2 {
+    background: #003b32;
+    height: 20px;
+    width: 40px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.blok2 {
+    background: white;
+    height: 220px;
+    width: 1000px;
+    margin: 10px;
+    border-radius: 20px;
+    justify-content: center;
+}
+.blok2-2 {
+    background: #003b32;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 20px;
+
+}
+
+.second {
+    background: #003b32;
+    height: 400px;
+    width: 1205px;
+    margin: 10px;
+    /*border-radius: 20px;*/
+    justify-content: center;
+/*justify-content: space-around*/
+    padding: 10px;
+}
+.blok3 {
+    background: white;
+    height: 200px;
+    width: 200px;
+    margin: 40px;
+
+    border-radius: 50%;
+    justify-content: center;
+}
+
+.blok3-1 {
+    background: white;
+    height: 10px;
+    width: 100px;
+    margin: 5px;
+    border-radius: 5px;}
+.blok3-2 {
+    background: white;
+    height: 10px;
+    width: 80px;
+    margin: 5px;
+    border-radius: 5px;}
+.blok3-3 {
+    background: white;
+    height: 10px;
+    width: 60px;
+    margin: 5px;
+    border-radius: 5px;}
+.w { display: flex;
+    justify-content: center;
+}
+.r { border: 3px solid rgba(24, 246, 246, 0.58);
+    border-radius: 50px;
+
+}
+.r2 { border: 3px solid rgba(24, 246, 246, 0.58);
+    ;
+
+}

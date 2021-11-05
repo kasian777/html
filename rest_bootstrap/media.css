@@ -1,0 +1,38 @@
+@media screen and (max-width: 600px) {
+
+    .header__logo {
+        width: 40px;
+    }
+
+    .wrapper {
+        max-width: 556px;
+        padding: 0 10px;
+    }
+
+    .header__top {
+        padding-top: 20px;
+    }
+
+
+    .txt h2 {
+        font-size: 30px;
+    }
+
+    .txt h1 {
+        font-size: 30px;
+    }
+
+    .txt p::before, .txt p::after {
+        display: none;
+    }
+
+
+    .header__main {
+        text-align: center;
+    }
+    .xx{
+        align-items: center;
+        flex-direction: column;
+        row-gap: 14px ;
+    }
+}

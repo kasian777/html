@@ -1,0 +1,171 @@
+
+.header {
+    height: 900px;
+    background: url("image/bg.png") no-repeat center/cover;
+}
+
+.navbar-brand img {
+    width: 60px;
+}
+
+.container-fluid {
+    margin: 50px;
+}
+
+.nav-link a {
+    color: #FFFFFF;
+}
+
+.navbar-toggler-icon {
+    background-color: #ff7400;
+}
+
+.mobile {
+    display: flex;
+    width: 30px;
+    flex-direction: column;
+    row-gap: 5px;
+}
+
+.hg {
+    height: 3px;
+    background: #ff7400;
+    border-radius: 50px;
+}
+
+.container-fluid {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.wrapper {
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.navbar-nav img {
+    width: 20px;
+}
+
+.navbar-nav {
+    margin-right: 20px;
+}
+
+.header_phone {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: white;
+    width: 185px;
+    border-left: 2px solid #FFFFFF;
+    padding-left: 15px;
+    margin-right: 45px;
+}
+
+.header_contact {
+    display: flex;
+    align-items: center;
+    column-gap: 35px;
+}
+
+.btn {
+    background-color: #ff7400;
+    font-size: 14px;
+    line-height: 19px;
+    color: white;
+}
+
+.nav__item a {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.collapse {
+    justify-content: flex-end;
+}
+
+.header__top {
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.txt {
+    margin-top: 203px;
+    font-weight: normal;
+    color: #D67E35;
+    max-width: 556px;
+}
+
+.txt h2 {
+    font-size: 50px;
+    line-height: 57px;
+    margin-left: 24px;
+}
+
+.txt h1 {
+
+    font-size: 80px;
+    line-height: 92px;
+}
+
+.txt p {
+    margin-top: 12px;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt p::before, .txt p::after {
+    content: "";
+    display: block;
+    width: 61px;
+    height: 2px;
+    background: #FFFFFF;
+}
+
+.txt p::before {
+    margin-right: 10px;
+}
+
+.txt p::after {
+    margin-left: 10px;
+}
+
+.x {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.xx{
+    position: relative;
+    top: 115px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 31px;
+}
+.block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 349px;
+    height: 328px;
+    font-size: 26px;
+    line-height: 30px;
+    background: #ffffff;
+    color: #656363;
+    padding-top: 40px;
+    box-shadow: 0px 110px 200px #c5c3c3;
+}
